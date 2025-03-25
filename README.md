@@ -1,1 +1,1 @@
-global chat workinhg with websocket 
+global chatr with web socket
